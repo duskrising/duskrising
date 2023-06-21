@@ -1,3 +1,7 @@
-**_---general---_**  clearly doing nothing for now  (almost) completely new to code - help most appreciated :D
-
-**_---language information---_**  pretty average on HTML and CSS  working on python    nothing else really
+**_---general---_**<br />
+clearly doing nothing for now<br />
+(almost) completely new to code - help most appreciated :D<br />
+<br />
+**_---language information---_**<br />
+pretty average on HTML and CSS<br />
+working on pythonnothing else really
